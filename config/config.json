@@ -1,0 +1,5 @@
+{
+  "ipList": ["10.119.82.31", "10.119.82.32"],
+  "afdFolder": "./AFDs",
+  "maxRetries": 2
+}
