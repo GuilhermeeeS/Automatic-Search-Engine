@@ -1,0 +1,6 @@
+{
+  "basePath": "\\\\abr-wfs02.na.autoliv.int\\ABRCommon$\\HR\\HUM-32\\Pontos",
+  "maxRetries": 3,
+  "retryDelay": 3000,
+  "validatePath": true
+}
